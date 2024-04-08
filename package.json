@@ -1,7 +1,7 @@
 {
-  "name": "api",
+  "name": "assignment-api",
   "version": "1.0.0",
-  "description": "API of Javascript objects",
+  "description": "Javascript assignment-api",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
