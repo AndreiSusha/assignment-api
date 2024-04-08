@@ -1,4 +1,4 @@
-const products = [
+let products = [
   {
     id: 0,
     imageUrl:

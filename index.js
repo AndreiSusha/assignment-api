@@ -1,6 +1,6 @@
 const express = require("express");
 const app = express();
-const products = require("./data/products");
+let products = require("./data/products");
 // now we can get json data from the client
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
